@@ -23,6 +23,6 @@ In this project, I will build a KNN model from scratch and also use the knn mode
 Pandas https://pandas.pydata.org/  
 Matplotlib https://matplotlib.org/  
 Numpy https://numpy.org/  
-Seaborn https://seaborn.pydata.org/
+Seaborn https://seaborn.pydata.org/  
 Scikit-learn https://scikit-learn.org/  
 
