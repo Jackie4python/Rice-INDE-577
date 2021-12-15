@@ -20,12 +20,12 @@ It is commonly used to make projections, such as for sales revenue for a given b
 logistical regression, and polynomial regression are popular regression algorithms.
 
 ## Topics
-1.K-Nearest Neighbors
-2. Gradient Descent
-3. Linear Regression
-4. Logistic Regression
-5. Single Perceptron
-6. Multi Layer Perceptron
-7. Decision Trees
-8. Random Forests
-9. Ensemble Learning
+1.K-Nearest Neighbors  
+2. Gradient Descent  
+3. Linear Regression  
+4. Logistic Regression  
+5. Single Perceptron  
+6. Multi Layer Perceptron  
+7. Decision Trees  
+8. Random Forests  
+9. Ensemble Learning  
