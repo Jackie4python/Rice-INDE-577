@@ -22,8 +22,8 @@ By observing the data, we can know that the price is dependent on various featur
 sqft_living(second most important feature), sqft_lot, floors etc. The price is also dependent on the location of the house where it is present. 
 
 ## Libraies Used 
-Pandas https://pandas.pydata.org/
-Matplotlib https://matplotlib.org/
-Numpy https://numpy.org/
-Seaborn https://seaborn.pydata.org/
-Scikit-learn https://scikit-learn.org/
+Pandas https://pandas.pydata.org/  
+Matplotlib https://matplotlib.org/  
+Numpy https://numpy.org/  
+Seaborn https://seaborn.pydata.org/  
+Scikit-learn https://scikit-learn.org/  
