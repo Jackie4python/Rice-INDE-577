@@ -2,7 +2,7 @@
 K nearest neighbors is a simple algorithm that stores all available cases and classifies new cases based on a similarity measure (e.g., distance functions). KNN has been used in statistical estimation and pattern recognition already in the beginning of 1970’s as a non-parametric technique.
 
 ## Dataset
-**Car Evaluation**
+**Car Evaluation**  
 The data used for this algorithms is a public data from UCI, https://archive.ics.uci.edu/ml/datasets/car+evaluation
 
 The data has 6 features and target, and contains 1728 rows and 7 columns with descriptions as follows:
