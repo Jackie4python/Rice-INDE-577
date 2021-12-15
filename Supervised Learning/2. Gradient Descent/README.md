@@ -3,7 +3,14 @@ Gradient descent is an optimization algorithm used to minimize some function by 
 Parameters refer to coefficients in Linear Regression and weights in neural networks.
 
 ## Task
-In this project, I will build a Gradient Descent model from scratch.
+In this project, I will build a Gradient Descent model from scratch, using the gradient descent algorithm, by changing the learning rate and the number of iterations, to continuously reduce the value of the cost function, to find the most optimal linear equation.
 
 ## Dataset
 Random generated numberical data.
+
+## Libraires used
+
+Pandas https://pandas.pydata.org/  
+Matplotlib https://matplotlib.org/  
+Numpy https://numpy.org/  
+Scikit-learn https://scikit-learn.org/  
